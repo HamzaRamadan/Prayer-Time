@@ -30,6 +30,14 @@ section .container {
   border         : 1px solid #d7d7d74e;
   margin-right   : 15%;
 }
+section .container h1 {
+ color: #fff;
+ font-size: 25px ;
+ text-align: center;
+ padding: 10px;
+ margin-bottom: 30px;
+ background-color: #d7d7d74e;
+}
 
 section .top_sec {
   display        : flex;
@@ -101,7 +109,7 @@ section .prayer{
 
   section .top_sec h3,
   section .top_sec .date h4 {
-    font-size: 20px; 
+    font-size: 18px !important; 
     margin-top: 10px;
     text-align: center;
   }
@@ -129,7 +137,7 @@ section .prayer{
   }
 
   section .top_sec select {
-    width: 150%; 
+    width: 100%; 
     font-size: 22px; 
     padding: 5px 10px;
     text-align: center;

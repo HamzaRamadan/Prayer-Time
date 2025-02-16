@@ -45,6 +45,7 @@ function App() {
   return (
     <section>
       <div className="container">
+        <h1>مواقيت الصلاه</h1>
         <div className="top_sec">
           <div className="city">
             <h3>المحافظه</h3>
