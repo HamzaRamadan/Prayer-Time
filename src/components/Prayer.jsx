@@ -10,3 +10,4 @@ const Prayer = ({name, time}) => {
 }
 
 export default Prayer
+
