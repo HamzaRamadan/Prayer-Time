@@ -1,5 +1,5 @@
 this Simple Project By (React && Vite) To Display Prayer times in Some Of Cities in Egypt by use Api  And this Project is responsive with all screens  
-this is API (https://api.aladhan.com/v1/timingsByCity/16-02-2025?city=Eg&country=cairo)
+this is API (https://api.aladhan.com/v1/timingsByCity/${formattedDate}?city=${city}&country=Eg)
 And this is Link to this Project on Vercel :-   https://prayer-time-eight.vercel.app/
 # React + Vite
 
